@@ -1,0 +1,2 @@
+# dify-rag-txt
+クローリングしたHTMLファイルを、DifyのRAGに追加するために10Mb以下に成形するためのPythonコード
